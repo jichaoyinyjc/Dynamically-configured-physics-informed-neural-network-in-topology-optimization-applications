@@ -17,3 +17,5 @@ I'm thrilled to be embarking on my first study of integrating PINN with Topo! Th
     author = {Jichao Yin and Ziming Wen and Shuhao Li and Yaya Zhang and Hu Wang},
     keywords = {Topology optimization, Physics-informed neural networks, Dynamically configure, Active sampling strategy, Decouple material},
     }
+
+    email: jichaoyinyjc@163.com
