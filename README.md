@@ -3,7 +3,7 @@ This repository is home to the code associated with the article (https://doi.org
 
 <img src="https://github.com/jichaoyinyjc/Dynamically-configured-physics-informed-neural-network-in-topology-optimization-applications/blob/main/Figure/test_for_Sec-3.2.png" width="520">
 
-I'm thrilled to be embarking on my first study of integrating PINN with Topo! The level of code written is still a work in progress, and I'd love to hear your questions about it. If your research makes use of any of the code in this repository, we would love for you to cite this article! The relevant information is below:
+I'm thrilled to be embarking on my first study of integrating PINN with Topo! The level of code written is still a work in progress, and I'd love to hear your questions about it. If your research makes use of any of the code in this repository, we would love for you to cite this article! **Email: jichaoyinyjc@163.com**. The relevant information is below:
 
     @article{YIN2024117004,
     title = {Dynamically configured physics-informed neural network in topology optimization applications},
@@ -17,5 +17,3 @@ I'm thrilled to be embarking on my first study of integrating PINN with Topo! Th
     author = {Jichao Yin and Ziming Wen and Shuhao Li and Yaya Zhang and Hu Wang},
     keywords = {Topology optimization, Physics-informed neural networks, Dynamically configure, Active sampling strategy, Decouple material},
     }
-
-    email: jichaoyinyjc@163.com
